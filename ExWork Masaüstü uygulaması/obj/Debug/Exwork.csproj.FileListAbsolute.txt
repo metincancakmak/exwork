@@ -1,0 +1,204 @@
+C:\Users\sadoo\Desktop\Exwork\bin\Debug\Exwork.exe.config
+C:\Users\sadoo\Desktop\Exwork\bin\Debug\Exwork.exe
+C:\Users\sadoo\Desktop\Exwork\bin\Debug\Exwork.pdb
+C:\Users\sadoo\Desktop\Exwork\obj\Debug\Exwork.csproj.AssemblyReference.cache
+C:\Users\sadoo\Desktop\Exwork\obj\Debug\Exwork.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadoo\Desktop\Exwork\obj\Debug\Exwork.Form1.resources
+C:\Users\sadoo\Desktop\Exwork\obj\Debug\Exwork.Properties.Resources.resources
+C:\Users\sadoo\Desktop\Exwork\obj\Debug\Exwork.csproj.GenerateResource.cache
+C:\Users\sadoo\Desktop\Exwork\obj\Debug\Exwork.csproj.CoreCompileInputs.cache
+C:\Users\sadoo\Desktop\Exwork\obj\Debug\Exwork.exe
+C:\Users\sadoo\Desktop\Exwork\obj\Debug\Exwork.pdb
+C:\Users\sadoo\Desktop\Exwork\obj\Debug\Exwork.Form2.resources
+C:\Users\rexle\OneDrive\Masaüstü\Exwork\bin\Debug\Exwork.exe.config
+C:\Users\rexle\OneDrive\Masaüstü\Exwork\bin\Debug\Exwork.exe
+C:\Users\rexle\OneDrive\Masaüstü\Exwork\bin\Debug\Exwork.pdb
+C:\Users\rexle\OneDrive\Masaüstü\Exwork\obj\Debug\Exwork.csprojAssemblyReference.cache
+C:\Users\rexle\OneDrive\Masaüstü\Exwork\obj\Debug\Exwork.Properties.Resources.resources
+C:\Users\rexle\OneDrive\Masaüstü\Exwork\obj\Debug\Exwork.csproj.GenerateResource.cache
+C:\Users\rexle\OneDrive\Masaüstü\Exwork\obj\Debug\Exwork.csproj.CoreCompileInputs.cache
+C:\Users\rexle\OneDrive\Masaüstü\Exwork\obj\Debug\Exwork.exe
+C:\Users\rexle\OneDrive\Masaüstü\Exwork\obj\Debug\Exwork.pdb
+C:\Users\rexle\OneDrive\Masaüstü\Exwork\obj\Debug\Exwork.frmGenel.resources
+C:\Users\rexle\OneDrive\Masaüstü\Exwork\obj\Debug\Exwork.frmGorevVer.resources
+C:\Users\rexle\OneDrive\Masaüstü\Exwork\obj\Debug\Exwork.frmGorevTakibi.resources
+C:\Users\rexle\OneDrive\Masaüstü\Exwork\obj\Debug\Exwork.frmGiris.resources
+C:\Users\rexle\OneDrive\Masaüstü\Exwork\obj\Debug\Exwork.frmAdmin.resources
+C:\Users\rexle\OneDrive\Masaüstü\Exwork\obj\Debug\Exwork.frmAjanda.resources
+C:\Users\rexle\OneDrive\Masaüstü\Exwork\obj\Debug\Exwork.frmUyeEkle.resources
+C:\Users\rexle\OneDrive\Masaüstü\Exwork\obj\Debug\Exwork.frmAyarlar.resources
+C:\Users\rexle\OneDrive\Masaüstü\Exwork\obj\Debug\Exwork.csproj.CopyComplete
+C:\Users\rexle\OneDrive\Masaüstü\Exwork 21.05\obj\Debug\Exwork.csprojAssemblyReference.cache
+C:\Users\rexle\OneDrive\Masaüstü\Exwork 21.05\obj\Debug\Exwork.frmAjanda.resources
+C:\Users\rexle\OneDrive\Masaüstü\Exwork 21.05\obj\Debug\Exwork.frmAyarlar.resources
+C:\Users\rexle\OneDrive\Masaüstü\Exwork 21.05\obj\Debug\Exwork.frmGiris.resources
+C:\Users\rexle\OneDrive\Masaüstü\Exwork 21.05\obj\Debug\Exwork.frmAdmin.resources
+C:\Users\rexle\OneDrive\Masaüstü\Exwork 21.05\obj\Debug\Exwork.frmGenel.resources
+C:\Users\rexle\OneDrive\Masaüstü\Exwork 21.05\obj\Debug\Exwork.frmGorevVer.resources
+C:\Users\rexle\OneDrive\Masaüstü\Exwork 21.05\obj\Debug\Exwork.frmGorevTakibi.resources
+C:\Users\rexle\OneDrive\Masaüstü\Exwork 21.05\obj\Debug\Exwork.frmUyeEkle.resources
+C:\Users\rexle\OneDrive\Masaüstü\Exwork 21.05\obj\Debug\Exwork.Properties.Resources.resources
+C:\Users\rexle\OneDrive\Masaüstü\Exwork 21.05\obj\Debug\Exwork.csproj.GenerateResource.cache
+C:\Users\rexle\OneDrive\Masaüstü\Exwork 21.05\obj\Debug\Exwork.csproj.CoreCompileInputs.cache
+C:\Users\rexle\OneDrive\Masaüstü\Exwork 21.05\obj\Debug\Exwork.exe
+C:\Users\rexle\OneDrive\Masaüstü\Exwork 21.05\obj\Debug\Exwork.pdb
+C:\Users\rexle\OneDrive\Masaüstü\Exwork 21.05\bin\Debug\Exwork.exe.config
+C:\Users\rexle\OneDrive\Masaüstü\Exwork 21.05\bin\Debug\Exwork.exe
+C:\Users\rexle\OneDrive\Masaüstü\Exwork 21.05\bin\Debug\Exwork.pdb
+C:\Users\rexle\OneDrive\Masaüstü\Exwork 21.05\obj\Debug\Exwork.csproj.CopyComplete
+C:\Users\sadoo\Desktop\Exwork 28.05\bin\Debug\Exwork.exe.config
+C:\Users\sadoo\Desktop\Exwork 28.05\bin\Debug\Exwork.exe
+C:\Users\sadoo\Desktop\Exwork 28.05\bin\Debug\Exwork.pdb
+C:\Users\sadoo\Desktop\Exwork 28.05\obj\Debug\Exwork.csproj.AssemblyReference.cache
+C:\Users\sadoo\Desktop\Exwork 28.05\obj\Debug\Exwork.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadoo\Desktop\Exwork 28.05\obj\Debug\Exwork.frmAjanda.resources
+C:\Users\sadoo\Desktop\Exwork 28.05\obj\Debug\Exwork.frmAyarlar.resources
+C:\Users\sadoo\Desktop\Exwork 28.05\obj\Debug\Exwork.frmGiris.resources
+C:\Users\sadoo\Desktop\Exwork 28.05\obj\Debug\Exwork.frmAdmin.resources
+C:\Users\sadoo\Desktop\Exwork 28.05\obj\Debug\Exwork.frmGenel.resources
+C:\Users\sadoo\Desktop\Exwork 28.05\obj\Debug\Exwork.frmGorevVer.resources
+C:\Users\sadoo\Desktop\Exwork 28.05\obj\Debug\Exwork.frmGorevTakibi.resources
+C:\Users\sadoo\Desktop\Exwork 28.05\obj\Debug\Exwork.frmUyeEkle.resources
+C:\Users\sadoo\Desktop\Exwork 28.05\obj\Debug\Exwork.Properties.Resources.resources
+C:\Users\sadoo\Desktop\Exwork 28.05\obj\Debug\Exwork.csproj.GenerateResource.cache
+C:\Users\sadoo\Desktop\Exwork 28.05\obj\Debug\Exwork.csproj.CoreCompileInputs.cache
+C:\Users\sadoo\Desktop\Exwork 28.05\obj\Debug\Exwork.csproj.CopyComplete
+C:\Users\sadoo\Desktop\Exwork 28.05\obj\Debug\Exwork.exe
+C:\Users\sadoo\Desktop\Exwork 28.05\obj\Debug\Exwork.pdb
+C:\Users\rexle\OneDrive\Masaüstü\02.06.2023\bin\Debug\Exwork.exe.config
+C:\Users\rexle\OneDrive\Masaüstü\02.06.2023\bin\Debug\Exwork.exe
+C:\Users\rexle\OneDrive\Masaüstü\02.06.2023\bin\Debug\Exwork.pdb
+C:\Users\rexle\OneDrive\Masaüstü\02.06.2023\obj\Debug\Exwork.csprojAssemblyReference.cache
+C:\Users\rexle\OneDrive\Masaüstü\02.06.2023\obj\Debug\Exwork.frmAjanda.resources
+C:\Users\rexle\OneDrive\Masaüstü\02.06.2023\obj\Debug\Exwork.frmAyarlar.resources
+C:\Users\rexle\OneDrive\Masaüstü\02.06.2023\obj\Debug\Exwork.frmGiris.resources
+C:\Users\rexle\OneDrive\Masaüstü\02.06.2023\obj\Debug\Exwork.frmAdmin.resources
+C:\Users\rexle\OneDrive\Masaüstü\02.06.2023\obj\Debug\Exwork.frmGenel.resources
+C:\Users\rexle\OneDrive\Masaüstü\02.06.2023\obj\Debug\Exwork.frmGorevVer.resources
+C:\Users\rexle\OneDrive\Masaüstü\02.06.2023\obj\Debug\Exwork.frmGorevTakibi.resources
+C:\Users\rexle\OneDrive\Masaüstü\02.06.2023\obj\Debug\Exwork.frmUyeEkle.resources
+C:\Users\rexle\OneDrive\Masaüstü\02.06.2023\obj\Debug\Exwork.Properties.Resources.resources
+C:\Users\rexle\OneDrive\Masaüstü\02.06.2023\obj\Debug\Exwork.csproj.GenerateResource.cache
+C:\Users\rexle\OneDrive\Masaüstü\02.06.2023\obj\Debug\Exwork.csproj.CoreCompileInputs.cache
+C:\Users\rexle\OneDrive\Masaüstü\02.06.2023\obj\Debug\Exwork.csproj.CopyComplete
+C:\Users\rexle\OneDrive\Masaüstü\02.06.2023\obj\Debug\Exwork.exe
+C:\Users\rexle\OneDrive\Masaüstü\02.06.2023\obj\Debug\Exwork.pdb
+C:\Users\rexle\OneDrive\Masaüstü\02.06.2023\obj\Debug\Exwork.frmGorevTakibiPersonel.resources
+C:\Users\rexle\OneDrive\Masaüstü\02.06.2023\obj\Debug\Exwork.frmPersonel.resources
+C:\Users\rexle\OneDrive\Masaüstü\02.06.2023\obj\Debug\Exwork.frmAyarlarPersonel.resources
+C:\Users\rexle\OneDrive\Masaüstü\ExWork\obj\Debug\Exwork.frmAyarlarPersonel.resources
+C:\Users\rexle\OneDrive\Masaüstü\ExWork\obj\Debug\Exwork.frmGorevTakibiPersonel.resources
+C:\Users\rexle\OneDrive\Masaüstü\ExWork\obj\Debug\Exwork.frmPersonel.resources
+C:\Users\sadoo\Desktop\ExWork-main\obj\Debug\Exwork.csproj.AssemblyReference.cache
+C:\Users\sadoo\Desktop\ExWork-main\obj\Debug\Exwork.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadoo\Desktop\ExWork-main\obj\Debug\Exwork.frmAjanda.resources
+C:\Users\sadoo\Desktop\ExWork-main\obj\Debug\Exwork.frmAyarlar.resources
+C:\Users\sadoo\Desktop\ExWork-main\obj\Debug\Exwork.frmAyarlarPersonel.resources
+C:\Users\sadoo\Desktop\ExWork-main\obj\Debug\Exwork.frmGiris.resources
+C:\Users\sadoo\Desktop\ExWork-main\obj\Debug\Exwork.frmAdmin.resources
+C:\Users\sadoo\Desktop\ExWork-main\obj\Debug\Exwork.frmGenel.resources
+C:\Users\sadoo\Desktop\ExWork-main\obj\Debug\Exwork.frmGorevTakibiPersonel.resources
+C:\Users\sadoo\Desktop\ExWork-main\obj\Debug\Exwork.frmGorevVer.resources
+C:\Users\sadoo\Desktop\ExWork-main\obj\Debug\Exwork.frmGorevTakibi.resources
+C:\Users\sadoo\Desktop\ExWork-main\obj\Debug\Exwork.frmPersonel.resources
+C:\Users\sadoo\Desktop\ExWork-main\obj\Debug\Exwork.frmUyeEkle.resources
+C:\Users\sadoo\Desktop\ExWork-main\obj\Debug\Exwork.Properties.Resources.resources
+C:\Users\sadoo\Desktop\ExWork-main\obj\Debug\Exwork.csproj.GenerateResource.cache
+C:\Users\sadoo\Desktop\ExWork-main\obj\Debug\Exwork.csproj.CoreCompileInputs.cache
+C:\Users\sadoo\Desktop\ExWork-main\obj\Debug\Exwork.exe
+C:\Users\sadoo\Desktop\ExWork-main\obj\Debug\Exwork.pdb
+C:\Users\sadoo\Desktop\ExWork-main\bin\Debug\Exwork.exe.config
+C:\Users\sadoo\Desktop\ExWork-main\bin\Debug\Exwork.exe
+C:\Users\sadoo\Desktop\ExWork-main\bin\Debug\Exwork.pdb
+C:\Users\sadoo\Desktop\ExWork-main\obj\Debug\Exwork.csproj.CopyComplete
+C:\Users\sadoo\Desktop\ExWork-main\obj\Debug\Exwork.Form4.resources
+C:\Users\sadoo\Desktop\10.06.2023 guncel\bin\Debug\Exwork.exe.config
+C:\Users\sadoo\Desktop\10.06.2023 guncel\bin\Debug\Exwork.exe
+C:\Users\sadoo\Desktop\10.06.2023 guncel\bin\Debug\Exwork.pdb
+C:\Users\sadoo\Desktop\10.06.2023 guncel\obj\Debug\Exwork.csproj.AssemblyReference.cache
+C:\Users\sadoo\Desktop\10.06.2023 guncel\obj\Debug\Exwork.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadoo\Desktop\10.06.2023 guncel\obj\Debug\Exwork.Form4.resources
+C:\Users\sadoo\Desktop\10.06.2023 guncel\obj\Debug\Exwork.frmAjanda.resources
+C:\Users\sadoo\Desktop\10.06.2023 guncel\obj\Debug\Exwork.frmAyarlar.resources
+C:\Users\sadoo\Desktop\10.06.2023 guncel\obj\Debug\Exwork.frmAyarlarPersonel.resources
+C:\Users\sadoo\Desktop\10.06.2023 guncel\obj\Debug\Exwork.frmGiris.resources
+C:\Users\sadoo\Desktop\10.06.2023 guncel\obj\Debug\Exwork.frmAdmin.resources
+C:\Users\sadoo\Desktop\10.06.2023 guncel\obj\Debug\Exwork.frmGenel.resources
+C:\Users\sadoo\Desktop\10.06.2023 guncel\obj\Debug\Exwork.frmGorevTakibiPersonel.resources
+C:\Users\sadoo\Desktop\10.06.2023 guncel\obj\Debug\Exwork.frmGorevVer.resources
+C:\Users\sadoo\Desktop\10.06.2023 guncel\obj\Debug\Exwork.frmGorevTakibi.resources
+C:\Users\sadoo\Desktop\10.06.2023 guncel\obj\Debug\Exwork.frmPersonel.resources
+C:\Users\sadoo\Desktop\10.06.2023 guncel\obj\Debug\Exwork.frmUyeEkle.resources
+C:\Users\sadoo\Desktop\10.06.2023 guncel\obj\Debug\Exwork.Properties.Resources.resources
+C:\Users\sadoo\Desktop\10.06.2023 guncel\obj\Debug\Exwork.csproj.GenerateResource.cache
+C:\Users\sadoo\Desktop\10.06.2023 guncel\obj\Debug\Exwork.csproj.CoreCompileInputs.cache
+C:\Users\sadoo\Desktop\10.06.2023 guncel\obj\Debug\Exwork.csproj.CopyComplete
+C:\Users\sadoo\Desktop\10.06.2023 guncel\obj\Debug\Exwork.exe
+C:\Users\sadoo\Desktop\10.06.2023 guncel\obj\Debug\Exwork.pdb
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\bin\Debug\Exwork.exe.config
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\bin\Debug\Exwork.exe
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\bin\Debug\Exwork.pdb
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\obj\Debug\Exwork.csprojAssemblyReference.cache
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\obj\Debug\Exwork.Form4.resources
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\obj\Debug\Exwork.frmAjanda.resources
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\obj\Debug\Exwork.frmAyarlar.resources
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\obj\Debug\Exwork.frmAyarlarPersonel.resources
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\obj\Debug\Exwork.frmGiris.resources
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\obj\Debug\Exwork.frmAdmin.resources
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\obj\Debug\Exwork.frmGorevTakibiPersonel.resources
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\obj\Debug\Exwork.frmGorevVer.resources
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\obj\Debug\Exwork.frmGorevTakibi.resources
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\obj\Debug\Exwork.frmPersonel.resources
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\obj\Debug\Exwork.frmUyeEkle.resources
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\obj\Debug\Exwork.Properties.Resources.resources
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\obj\Debug\Exwork.csproj.GenerateResource.cache
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\obj\Debug\Exwork.csproj.CoreCompileInputs.cache
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\obj\Debug\Exwork.csproj.CopyComplete
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\obj\Debug\Exwork.exe
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\obj\Debug\Exwork.pdb
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\bin\Debug\Montserrat-Italic-VariableFont_wght.ttf
+C:\Users\rexle\OneDrive\Masaüstü\10.06.2023 güncel akşam\bin\Debug\Montserrat-VariableFont_wght.ttf
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\bin\Debug\Montserrat-Italic-VariableFont_wght.ttf
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\bin\Debug\Montserrat-VariableFont_wght.ttf
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\bin\Debug\Exwork.exe.config
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\bin\Debug\Exwork.exe
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\bin\Debug\Exwork.pdb
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\obj\Debug\Exwork.csprojAssemblyReference.cache
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\obj\Debug\Exwork.Form4.resources
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\obj\Debug\Exwork.frmAjanda.resources
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\obj\Debug\Exwork.frmAyarlar.resources
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\obj\Debug\Exwork.frmAyarlarPersonel.resources
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\obj\Debug\Exwork.frmGiris.resources
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\obj\Debug\Exwork.frmAdmin.resources
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\obj\Debug\Exwork.frmGorevTakibiPersonel.resources
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\obj\Debug\Exwork.frmGorevVer.resources
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\obj\Debug\Exwork.frmGorevTakibi.resources
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\obj\Debug\Exwork.frmPersonel.resources
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\obj\Debug\Exwork.frmUyeEkle.resources
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\obj\Debug\Exwork.Properties.Resources.resources
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\obj\Debug\Exwork.csproj.GenerateResource.cache
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\obj\Debug\Exwork.csproj.CoreCompileInputs.cache
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\obj\Debug\Exwork.csproj.CopyComplete
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\obj\Debug\Exwork.exe
+C:\Users\rexle\OneDrive\Masaüstü\ExWork Original\obj\Debug\Exwork.pdb
+C:\Users\rexle\OneDrive\Masaüstü\407713 Metincan ÇAKMAK ExWork Bitirme Projesi\ExWork Masaüstü uygulaması\bin\Debug\Exwork.exe.config
+C:\Users\rexle\OneDrive\Masaüstü\407713 Metincan ÇAKMAK ExWork Bitirme Projesi\ExWork Masaüstü uygulaması\bin\Debug\Exwork.exe
+C:\Users\rexle\OneDrive\Masaüstü\407713 Metincan ÇAKMAK ExWork Bitirme Projesi\ExWork Masaüstü uygulaması\bin\Debug\Exwork.pdb
+C:\Users\rexle\OneDrive\Masaüstü\407713 Metincan ÇAKMAK ExWork Bitirme Projesi\ExWork Masaüstü uygulaması\obj\Debug\Exwork.csprojAssemblyReference.cache
+C:\Users\rexle\OneDrive\Masaüstü\407713 Metincan ÇAKMAK ExWork Bitirme Projesi\ExWork Masaüstü uygulaması\obj\Debug\Exwork.Form4.resources
+C:\Users\rexle\OneDrive\Masaüstü\407713 Metincan ÇAKMAK ExWork Bitirme Projesi\ExWork Masaüstü uygulaması\obj\Debug\Exwork.frmAjanda.resources
+C:\Users\rexle\OneDrive\Masaüstü\407713 Metincan ÇAKMAK ExWork Bitirme Projesi\ExWork Masaüstü uygulaması\obj\Debug\Exwork.frmAyarlar.resources
+C:\Users\rexle\OneDrive\Masaüstü\407713 Metincan ÇAKMAK ExWork Bitirme Projesi\ExWork Masaüstü uygulaması\obj\Debug\Exwork.frmAyarlarPersonel.resources
+C:\Users\rexle\OneDrive\Masaüstü\407713 Metincan ÇAKMAK ExWork Bitirme Projesi\ExWork Masaüstü uygulaması\obj\Debug\Exwork.frmGiris.resources
+C:\Users\rexle\OneDrive\Masaüstü\407713 Metincan ÇAKMAK ExWork Bitirme Projesi\ExWork Masaüstü uygulaması\obj\Debug\Exwork.frmAdmin.resources
+C:\Users\rexle\OneDrive\Masaüstü\407713 Metincan ÇAKMAK ExWork Bitirme Projesi\ExWork Masaüstü uygulaması\obj\Debug\Exwork.frmGorevTakibiPersonel.resources
+C:\Users\rexle\OneDrive\Masaüstü\407713 Metincan ÇAKMAK ExWork Bitirme Projesi\ExWork Masaüstü uygulaması\obj\Debug\Exwork.frmGorevVer.resources
+C:\Users\rexle\OneDrive\Masaüstü\407713 Metincan ÇAKMAK ExWork Bitirme Projesi\ExWork Masaüstü uygulaması\obj\Debug\Exwork.frmGorevTakibi.resources
+C:\Users\rexle\OneDrive\Masaüstü\407713 Metincan ÇAKMAK ExWork Bitirme Projesi\ExWork Masaüstü uygulaması\obj\Debug\Exwork.frmPersonel.resources
+C:\Users\rexle\OneDrive\Masaüstü\407713 Metincan ÇAKMAK ExWork Bitirme Projesi\ExWork Masaüstü uygulaması\obj\Debug\Exwork.frmUyeEkle.resources
+C:\Users\rexle\OneDrive\Masaüstü\407713 Metincan ÇAKMAK ExWork Bitirme Projesi\ExWork Masaüstü uygulaması\obj\Debug\Exwork.Properties.Resources.resources
+C:\Users\rexle\OneDrive\Masaüstü\407713 Metincan ÇAKMAK ExWork Bitirme Projesi\ExWork Masaüstü uygulaması\obj\Debug\Exwork.csproj.GenerateResource.cache
+C:\Users\rexle\OneDrive\Masaüstü\407713 Metincan ÇAKMAK ExWork Bitirme Projesi\ExWork Masaüstü uygulaması\obj\Debug\Exwork.csproj.CoreCompileInputs.cache
+C:\Users\rexle\OneDrive\Masaüstü\407713 Metincan ÇAKMAK ExWork Bitirme Projesi\ExWork Masaüstü uygulaması\obj\Debug\Exwork.csproj.CopyComplete
+C:\Users\rexle\OneDrive\Masaüstü\407713 Metincan ÇAKMAK ExWork Bitirme Projesi\ExWork Masaüstü uygulaması\obj\Debug\Exwork.exe
+C:\Users\rexle\OneDrive\Masaüstü\407713 Metincan ÇAKMAK ExWork Bitirme Projesi\ExWork Masaüstü uygulaması\obj\Debug\Exwork.pdb

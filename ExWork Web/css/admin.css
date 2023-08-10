@@ -1,0 +1,21 @@
+h1{
+    font-size: 40px !important;
+}
+
+.baslik{
+    color:white !important;
+    text-decoration: underline; 
+    text-underline-offset: 6px;
+}
+
+.bg-exwork {
+  background-image: url("img_girl.jpg");
+
+  /* Ful yükseklik */
+  height: 100%;
+
+  /* Görüntüyü ortala ve ölçeklendir*/
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -1,0 +1,10 @@
+C:\Users\rexle\source\repos\ExWork\istakipsistemi\bin\Debug\istakipsistemi.exe.config
+C:\Users\rexle\source\repos\ExWork\istakipsistemi\bin\Debug\istakipsistemi.exe
+C:\Users\rexle\source\repos\ExWork\istakipsistemi\bin\Debug\istakipsistemi.pdb
+C:\Users\rexle\source\repos\ExWork\istakipsistemi\obj\Debug\istakipsistemi.csprojAssemblyReference.cache
+C:\Users\rexle\source\repos\ExWork\istakipsistemi\obj\Debug\istakipsistemi.login.resources
+C:\Users\rexle\source\repos\ExWork\istakipsistemi\obj\Debug\istakipsistemi.Properties.Resources.resources
+C:\Users\rexle\source\repos\ExWork\istakipsistemi\obj\Debug\istakipsistemi.csproj.GenerateResource.cache
+C:\Users\rexle\source\repos\ExWork\istakipsistemi\obj\Debug\istakipsistemi.csproj.CoreCompileInputs.cache
+C:\Users\rexle\source\repos\ExWork\istakipsistemi\obj\Debug\istakipsistemi.exe
+C:\Users\rexle\source\repos\ExWork\istakipsistemi\obj\Debug\istakipsistemi.pdb
